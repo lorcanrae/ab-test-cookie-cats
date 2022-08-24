@@ -1,4 +1,4 @@
-# A/B Testing: Player Retention for Mobile Game - Cookie Cats
+# A/B Testing: Player Retention for Mobile Game
 
 [Cookie Cats](https://tactilegames.com/cookie-cats/) is a hugely popular mobile
 puzzle game developed by [Tactile Entertainment](https://tactilegames.com).
