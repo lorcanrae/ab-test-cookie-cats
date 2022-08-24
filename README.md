@@ -9,10 +9,11 @@ As players progress through the game they will encounter gates that force them t
 wait a set period of time before they can progress or alternatively players can make
 an in-app purchase to progress.
 
-An Exploratory Data Analysis and statistical A/B testing data was
-[performed](https://github.com/lorcanrae/ab-test-cookie-cats/blob/master/ab-test-cookie-cats.ipynb)
+An Exploratory Data Analysis and statistical A/B testing data was performed
 to analyse the impact on the Total Number of Gamerounds played per player, Day 1 Retention and  Day 7 Retention
 when the gate was moved from Level 30 to Level 40.
+
+Have a look at the notebook [here](https://github.com/lorcanrae/ab-test-cookie-cats/blob/master/ab-test-cookie-cats.ipynb)!
 
 <p align='center', float='left'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='50'>
