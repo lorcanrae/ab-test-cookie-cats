@@ -23,7 +23,7 @@ when the gate was moved from Level 30 to Level 40.
 
 ## AB Testing
 
-A bootstrap analysis and z-test was performed on the Day 1 and Day 7 Retention.
+A bootstrap analysis and proportional two-tailed z-test was performed on the Day 1 and Day 7 Retention.
 
 The `sum_gamerounds` was found to be non-normally distributed.
 A Mann-Whitney U test and bootstrap analysis was performed on the number of gamerounds played per player.
