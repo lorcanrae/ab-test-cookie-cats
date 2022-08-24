@@ -1,9 +1,5 @@
 # A/B Testing: Player Retention for Mobile Game - Cookie Cats
 
-🍪 🐈 🍪 🐈 🍪 🐈
-
-## Context
-
 [Cookie Cats](https://tactilegames.com/cookie-cats/) is a hugely popular mobile
 puzzle game developed by [Tactile Entertainment](https://tactilegames.com).
 It's a classic "connect three" style puzzle game where the player must connect tiles
@@ -18,20 +14,25 @@ An Exploratory Data Analysis and statistical A/B testing data was [performed]
 to analyse the impact on the Total Number of Gamerounds played per player, Day 1 Retention and  Day 7 Retention
 when the gate was moved from Level 30 to Level 40.
 
-A bootstrap analysis and z-test was performed on the Day 1 and Day 7 Retention.
-
-A bootstrap and Mann-Whitney U test was performed on the number of gamerounds played per player.
-
-It was found that there is adequate evidence to suggest that Day 1 Retention and Day 7 Retention
-was higher when the gate is at Level 30. There where no statistically meaningful insights derived
-from the number of gamerounds played per player.
-
 <p align='center', float='left'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='50'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg' width='50'>
   <img src='https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg' width='50'>
   <img src='https://seaborn.pydata.org/_images/logo-mark-lightbg.svg' width='50'>
 </p>
+
+## AB Testing
+
+A bootstrap analysis and z-test was performed on the Day 1 and Day 7 Retention.
+
+The `sum_gamerounds` was found to be non-normally distributed.
+A Mann-Whitney U test and bootstrap analysis was performed on the number of gamerounds played per player.
+
+## Results
+
+It was found that there is adequate evidence to suggest that Day 1 Retention and Day 7 Retention
+was higher when the gate is at Level 30. There where no statistically meaningful insights derived
+from the number of gamerounds played per player.
 
 ## Data
 
