@@ -14,7 +14,7 @@ wait a set period of time before they can progress or alternatively players can 
 an in-app purchase to progress.
 
 An Exploratory Data Analysis and statistical A/B testing data was [performed]
-(https://github.com/lorcanrae/ab-test-cookie-cats/blob/master/notebooks/ab-test-cookie-cats.ipynb)
+(https://github.com/lorcanrae/ab-test-cookie-cats/blob/master/ab-test-cookie-cats.ipynb)
 to analyse the impact on the Total Number of Gamerounds played per player, Day 1 Retention and  Day 7 Retention
 when the gate was moved from Level 30 to Level 40.
 
