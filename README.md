@@ -9,7 +9,7 @@ As players progress through the game they will encounter gates that force them t
 wait a set period of time before they can progress or alternatively players can make
 an in-app purchase to progress.
 
-An Exploratory Data Analysis and statistical A/B testing data was performed
+An Exploratory Data Analysis and statistical A/B testing was performed
 to analyse the impact on the Total Number of Gamerounds played per player, Day 1 Retention and  Day 7 Retention
 when the gate was moved from Level 30 to Level 40.
 
